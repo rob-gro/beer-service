@@ -1,4 +1,4 @@
-package com.robgro.beerservice;
+package com.robgro.beerservice.domain;
 
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

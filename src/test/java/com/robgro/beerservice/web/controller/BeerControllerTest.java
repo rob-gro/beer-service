@@ -52,4 +52,6 @@ class BeerControllerTest {
                 .content(beerDtoJson))
                 .andExpect(status().isNoContent());
     }
+
+
 }
